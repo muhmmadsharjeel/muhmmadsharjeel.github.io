@@ -516,11 +516,12 @@ ul.ul-dates div.content,ul.ul-dates-gray div.content {
 ul.ul-dates div.content h4,ul.ul-dates-gray div.content h4 {
 	font-weight: 400;
 	font-size: 16px;
-	margin-top: 0;
+	margin-top: -10px;
+	margin-left: 15px;
 }
 
 ul.ul-dates div.content p,ul.ul-dates-gray div.content p {
-	font-size: 13px;
+	font-size: 10px;
 }
 
 /* ul-timeline
@@ -538,7 +539,7 @@ ul.timeline li .date {
 	margin-top: 10px;
 	margin-left: -115px;
 	font-size: 15px;
-	width: 110px;
+	width: 140px;
 	text-align: center;
 	/*background: #03cc85;*/
 	color: #fff;
